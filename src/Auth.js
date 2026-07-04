@@ -457,7 +457,8 @@ const unlimitedAccessEmails = [
   "mishra.honey458@gmail.com",
   "neha@harshubh.com",
   "shah@harshubh.com",
-  "class@harshubh.com"
+  "class@harshubh.com",
+  "info@harshubh.com"
 ];
 
 const Auth = ({ children }) => {
