@@ -444,7 +444,8 @@ const allowedEmails = [
   "cottonhub5534@gmail.com",
   "pravinkhopade2664@gmail.com",
   "surat@harshubh.com",
-  "info@harshubh.com"
+  "info@harshubh.com",
+  "tech@harshubh.com"
 ];
 
 // 🔓 Unlimited Access Emails (OUTSIDE COMPONENT)
