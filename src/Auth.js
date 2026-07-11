@@ -477,6 +477,8 @@ const allowedEmails = [
   "amitdhruve4@gmail.com",
   "abhays9096@gmail.com",
   "bobbyptanna@gmail.com",
+  "sharadtcs1@gmail.com",
+  "arnavsingh0770@gmail.com",
 
   //10-07-2026 to 09-07-2027 surat//
 "punitpatel3m@gmail.com",
