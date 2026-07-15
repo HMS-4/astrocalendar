@@ -60,7 +60,6 @@
 // "himanshu.virwani33@gmail.com",
 // "bhishamgrg@gmail.com",
 // "kukadeajay@gmail.com",
-// "hms.surat4@gmail.com",
 // "emceeadityakalla@gmail.com",
 
 // ////27/04/26 to 26/04/27
@@ -142,6 +141,7 @@
 
 // ///29/06/26 to 28/06/27
 // "surat@harshubh.com",
+// "hms.surat4@gmail.com",
 
 // //04/07/26 to 03/07/27
 // "info@harshubh.com"
@@ -341,6 +341,8 @@ const allowedEmails = [
   "neha@harshubh.com",
   "shah@harshubh.com",
   "class@harshubh.com",
+  "ahmedabad@harshubh.com",
+
 
   // 1 year access emails 21-04-2026 to 20-04-2027
   "panchalsagar287@gmail.com",
