@@ -2,7 +2,7 @@ const TITHI_CONFIG = {
   "Purnima": { color: "#FFD54F" },
   "Amavasya": { color: "#FF8A80" },
   "Trayodashi": { color: "#CE93D8" },
-  "Panchak": { color: "#A1887F" },
+  "Panchak": { color: "#4FC3F7" },
   "Pushya": { color: "#90CAF9" },
   "Bhadra": { color: "#FFE082" },
 
@@ -10,9 +10,9 @@ const TITHI_CONFIG = {
   "Mars": { color: "#EF5350" },
   "Venus": { color: "#F48FB1" },
   "Conjunction": { color: "#FF7043" },
-  "Opposition": { color: "#8D6E63" },
-  "Moon Eris Conjunction": { color: "#BA68C8" },     // Purple
-  "Moon Phase First Quarter": { color: "#4FC3F7" }, // Sky Blue
+  "Opposition": { color: "#168eb3" },
+  "Secret Planet": { color: "#BA68C8" },     // Purple
+  "QT 1": { color: "#c3d425" }, // Sky Blue
   "Sun Transit": { color: "#FFC107" },        // Golden Yellow Sun
   "Mercury": { color: "#81C784" },    // Green
 };
