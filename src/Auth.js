@@ -342,6 +342,7 @@ const allowedEmails = [
   "shah@harshubh.com",
   "class@harshubh.com",
   "ahmedabad@harshubh.com",
+  "saleshms78@gmail.com",
 
 
   // 1 year access emails 21-04-2026 to 20-04-2027
@@ -499,7 +500,7 @@ const allowedEmails = [
 "dhavalv64@gmail.com",
 "scmalaviya1907@gmail.com",
 
-//1y access 10/8/2026 to 09/08/2027 MSC//
+//1y access 10/8/2026 to 09/08/2027 Master class//
 "prasadmulikar500@gmail.com",
 "anils373@gmail.com",
 "syedmunirdaimi@gmail.com",
@@ -536,7 +537,7 @@ const allowedEmails = [
 "maulaali101@gmail.com",
 "ramalaxmipal@gmail.com",
 "mukeshkumar810846@gmail.com",
-"sahu.aakanksha01@gmail.com"
+"sahu.aakanksha01@gmail.com",
 ];
 
 // 🔓 Unlimited Access Emails (OUTSIDE COMPONENT)
