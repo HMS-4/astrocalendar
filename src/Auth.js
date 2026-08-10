@@ -538,6 +538,7 @@ const allowedEmails = [
 "ramalaxmipal@gmail.com",
 "mukeshkumar810846@gmail.com",
 "sahu.aakanksha01@gmail.com",
+"mundadagvibha@gmail.com",
 ];
 
 // 🔓 Unlimited Access Emails (OUTSIDE COMPONENT)
