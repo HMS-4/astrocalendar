@@ -17189,9 +17189,104 @@
   { "date": "2027-09-18", "title": "Secret Planet", "type": "Secret Planet" },
   { "date": "2027-10-16", "title": "Secret Planet", "type": "Secret Planet" },
   { "date": "2027-11-12", "title": "Secret Planet", "type": "Secret Planet" },
-  { "date": "2027-12-09", "title": "Secret Planet", "type": "Secret Planet" }
+  { "date": "2027-12-09", "title": "Secret Planet", "type": "Secret Planet" },
 
-
+{
+  "date": "2026-01-15",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Municipal Corporation Election - Maharashtra"
+},
+{
+  "date": "2026-01-26",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Republic Day"
+},
+{
+  "date": "2026-03-03",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Holi"
+},
+{
+  "date": "2026-03-26",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Shri Ram Navami"
+},
+{
+  "date": "2026-03-31",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Shri Mahavir Jayanti"
+},
+{
+  "date": "2026-04-03",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Good Friday"
+},
+{
+  "date": "2026-04-14",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Dr. Baba Saheb Ambedkar Jayanti"
+},
+{
+  "date": "2026-05-01",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Maharashtra Day"
+},
+{
+  "date": "2026-05-28",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Bakri Id"
+},
+{
+  "date": "2026-06-26",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Muharram"
+},
+{
+  "date": "2026-09-14",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Ganesh Chaturthi"
+},
+{
+  "date": "2026-10-02",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Mahatma Gandhi Jayanti"
+},
+{
+  "date": "2026-10-20",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Dussehra"
+},
+{
+  "date": "2026-11-10",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Diwali Balipratipada"
+},
+{
+  "date": "2026-11-24",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Prakash Gurpurb Sri Guru Nanak Dev"
+},
+{
+  "date": "2026-12-25",
+  "title": "Trading Holiday",
+  "type": "Trading Holiday",
+  "description": "Christmas"
+}
 ]
 
 

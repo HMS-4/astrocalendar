@@ -1,38 +1,7 @@
-// import React from "react";
-// import TITHI_CONFIG from "../data/tithiConfig";
-
-// const DayCell = ({ day, events }) => {
-//   return (
-//     <div className="day-cell">
-//       <div className="date">{day}</div>
-
-//       <div className="events">
-//         {events.map((e, i) => (
-//           <div
-//             key={i}
-//             className="event-box"
-//             style={{
-//               background: TITHI_CONFIG[e.type]?.color || "#e0e0e0"
-//             }}
-//           >
-//             {e.title} {e.symbol}
-//             {e.time && <div className="time">{e.time}</div>}
-//           </div>
-//         ))}
-
-
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default DayCell;
-
 import React from "react";
 import TITHI_CONFIG from "../data/tithiConfig";
 
 const DayCell = ({ day, events, currentMonth, currentYear }) => {
-
   const today = new Date();
 
   const isToday =
@@ -42,7 +11,6 @@ const DayCell = ({ day, events, currentMonth, currentYear }) => {
 
   return (
     <div className={`day-cell ${isToday ? "today" : ""}`}>
-      
       {/* DATE */}
       <div className="date">
         {day}
@@ -56,14 +24,24 @@ const DayCell = ({ day, events, currentMonth, currentYear }) => {
             key={i}
             className="event-box"
             style={{
-             background:
-             TITHI_CONFIG[e.title]?.color ||
-             TITHI_CONFIG[e.type]?.color ||
-              "#e0e0e0"
+              background:
+                TITHI_CONFIG[e.title]?.color ||
+                TITHI_CONFIG[e.type]?.color ||
+                "#e0e0e0",
             }}
           >
-            {e.title} {e.symbol}
+            {/* Event Title */}
+            <span>{e.title} {e.symbol}</span>
+
+            {/* Time */}
             {e.time && <div className="time">{e.time}</div>}
+
+            {/* Tooltip */}
+            {e.description && (
+              <div className="custom-tooltip">
+                {e.description}
+              </div>
+            )}
           </div>
         ))}
       </div>

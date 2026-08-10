@@ -15,6 +15,9 @@ const TITHI_CONFIG = {
   "QT 1": { color: "#c3d425" }, // Sky Blue
   "Sun Transit": { color: "#FFC107" },        // Golden Yellow Sun
   "Mercury": { color: "#81C784" },    // Green
+"Trading Holiday": {
+  color: "#D32F2F"
+},
 };
 
 export default TITHI_CONFIG;
