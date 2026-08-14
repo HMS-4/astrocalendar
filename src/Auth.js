@@ -539,6 +539,20 @@ const allowedEmails = [
 "mukeshkumar810846@gmail.com",
 "sahu.aakanksha01@gmail.com",
 "mundadagvibha@gmail.com",
+
+//08-08-2026 to 08-08-2027 surat//
+"pinturamani003@gmail.com",
+"sanjay.gabani2@gmail.com",
+"jay8866patel@gmail.com",
+"kaushalthakkar1723@gmail.com",
+"abhishekjaiswal0214@gmail.com",
+"rajnishgiri8@gmail.com",
+"gdhanrajg@gmail.com",
+"shahrushil56900@gmail.com",
+"ketanlakhani121@gmail.com",
+"sohilshah1979@gmail.com",
+
+
 ];
 
 // 🔓 Unlimited Access Emails (OUTSIDE COMPONENT)
