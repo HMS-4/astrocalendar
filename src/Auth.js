@@ -567,7 +567,8 @@ const unlimitedAccessEmails = [
   "shah@harshubh.com",
   "class@harshubh.com",
   "info@harshubh.com",
-  "rupamdholakiya6@gmail.com"
+  "rupamdholakiya6@gmail.com",
+  "drshrikantjadhavofficial@gmail.com"
 ];
 
 const Auth = ({ children }) => {
