@@ -552,7 +552,7 @@ const allowedEmails = [
 "ketanlakhani121@gmail.com",
 "sohilshah1979@gmail.com",
  "rupamdholakiya6@gmail.com",
-"drshrikantjadhavofficial@gmail.com"
+"drshrikantjadhavofficial@gmail.com",
 
 //10-08-2026 to 09-08-2027 Master class//
 "dani.investments@gmail.com",
