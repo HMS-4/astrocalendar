@@ -554,6 +554,31 @@ const allowedEmails = [
  "rupamdholakiya6@gmail.com",
 "drshrikantjadhavofficial@gmail.com"
 
+//10-08-2026 to 09-08-2027 Master class//
+"dani.investments@gmail.com",
+"rishisharma6376@gmail.com",
+"vishalkhichi0761@gmail.com",
+"shravan.nagpal1987@gmail.com",
+"dhavalshah10044395@gmail.com",
+"prakashpatel54mba@gmail.com",
+"samartrade2@gmail.com",
+"prithviraj4894@gmail.com",
+"kelvekarankush@gmail.com",
+"vijaysharma131@gmail.com",
+"girish1bhosale@gmail.com",
+"chetan261096@gmail.com",
+"asnaniprakash8@gmail.com",
+"anuragpatidar106@gmail.com",
+"pappusapate123@gmail.com",
+"rwdesai@gmail.com",
+"rohiytkakde@gmail.com",
+"sap.rashmikanta@gmail.com",
+"sdetranslalitpur@gmail.com",
+"sekharprasad856@gmail.com",
+"ajinkya.trades5@gmail.com",
+"pranaykumar0508@gmail.com",
+
+
 
 ];
 
