@@ -56,10 +56,9 @@
 // "mamtarachh@gmail.com",
 // "mvbari222@gmail.com",
 // "bhupendraraut2025@gmail.com",
-// "roopesh500@gmail.com",
-// "himanshu.virwani33@gmail.com",
-// "bhishamgrg@gmail.com",
-// "kukadeajay@gmail.com",
+
+
+
 // "emceeadityakalla@gmail.com",
 
 // ////27/04/26 to 26/04/27
@@ -68,12 +67,9 @@
 // /////29/04/26 to 28/04/27
 // "compliancejural@gmail.com",
 
-// //////06/05/26 to 05/05/27
-// "soorajligade@gmail.com",
 
 // ///////21/05/26 to 20/05/27
-// "jayeshagnihotri789@gmail.com",
-// "devangidhingani61@gmail.com",
+
 // "ajaygodara864@gmail.com",
 // "kuberconsultants21@gmail.com",
 // "rahulyadav03022002@gmail.com",
@@ -139,9 +135,6 @@
 // "cottonhub5534@gmail.com",
 // "pravinkhopade2664@gmail.com",
 
-// ///29/06/26 to 28/06/27
-// "surat@harshubh.com",
-// "hms.surat4@gmail.com",
 
 // //04/07/26 to 03/07/27
 // "info@harshubh.com"
@@ -341,7 +334,6 @@ const allowedEmails = [
   "neha@harshubh.com",
   "shah@harshubh.com",
   "class@harshubh.com",
-  "ahmedabad@harshubh.com",
   "saleshms78@gmail.com",
 
 
@@ -377,18 +369,13 @@ const allowedEmails = [
   "mamtarachh@gmail.com",
   "mvbari222@gmail.com",
   "bhupendraraut2025@gmail.com",
-  "roopesh500@gmail.com",
-  "himanshu.virwani33@gmail.com",
-  "bhishamgrg@gmail.com",
-  "kukadeajay@gmail.com",
-  "hms.surat4@gmail.com",
+  
+  
+  
   "emceeadityakalla@gmail.com",
 
   "mirpuri.anisha@gmail.com",
   "compliancejural@gmail.com",
-  "soorajligade@gmail.com",
-  "jayeshagnihotri789@gmail.com",
-  "devangidhingani61@gmail.com",
   "ajaygodara864@gmail.com",
   "kuberconsultants21@gmail.com",
   "rahulyadav03022002@gmail.com",
@@ -446,7 +433,7 @@ const allowedEmails = [
   "shweta63gulat@gmail.com",
   "cottonhub5534@gmail.com",
   "pravinkhopade2664@gmail.com",
-  "surat@harshubh.com",
+  
   "info@harshubh.com",
   "tech@harshubh.com",
   "roopaammanagi@gmail.com",
